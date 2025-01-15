@@ -65,4 +65,26 @@ body {
   .movie-card p {
 	margin: 5px 0;
   }
+  .results-list ul {
+	list-style-type: none;
+	padding: 0;
+  }
   
+  .result-card {
+	background: white;
+	margin: 10px auto;
+	padding: 15px;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+	max-width: 400px;
+	text-align: left;
+  }
+  
+  .result-card h2 {
+	margin: 0 0 10px;
+	font-size: 20px;
+  }
+  
+  .result-card p {
+	margin: 5px 0;
+  }
